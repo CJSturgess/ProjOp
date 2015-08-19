@@ -1,0 +1,12 @@
+name: LAGS
+main: ninja.lonecraft.lags.Main
+version: 0.1
+commands:
+    inventory:
+        description: Nope.
+        usage: /inventory
+        permission: lags.player
+permissions:
+    lags.player:
+        description: Super swag.
+        default: true
